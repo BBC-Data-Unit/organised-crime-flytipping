@@ -41,5 +41,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northampton Chronicle: [Northampton Borough Council pays out nearly £100,000 in flytipping clean-up fees](https://www.northamptonchron.co.uk/news/people/northampton-borough-council-pays-out-nearly-ps100000-flytipping-clean-fees-1740737) *14 February 2020*
 * Rochdale News: [Major fly-tipping rates in Rochdale one of highest in country last year](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/132756/major-flytipping-rates-in-rochdale-one-of-highest-in-country-last-year) *14 February 2020*
 * Scarbrough News: [Large-scale fly tipping in Scarborough borough doubles in eight years - costing the taxpayer thousands](https://www.thescarboroughnews.co.uk/news/politics/council/large-scale-fly-tipping-scarborough-borough-doubles-eight-years-costing-taxpayer-thousands-1758293) *14 February 2020*
+* Lancaster and Morecambe Citizen: [Fly-tipping rises sharply as 'gangs dump industrial quantities of waste'](https://www.thelancasterandmorecambecitizen.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020*
+* Lancashire Telegraph: [Fly-tipping rises sharply in Blackburn with Darwen and Hyndburn] (https://www.lancashiretelegraph.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020* 
 
 
