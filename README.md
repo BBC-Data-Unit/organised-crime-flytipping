@@ -32,3 +32,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Wilts and Gloustershire Standard: [Organised criminal gangs are dumping lorry-loads of rubbish](https://www.wiltsglosstandard.co.uk/news/18232344.organised-criminal-gangs-dumping-lorry-loads-rubbish) *13 February 2020*
 * Worthing Herald: [Six-figure cost of empty business units in Worthing, Adur and Arun revealed](https://www.worthingherald.co.uk/business/six-figure-cost-empty-business-units-worthing-adur-and-arun-revealed-1384378) *13 February 2020*
 * Yorkshire Post: [Criminals are fly-tipping lorryfuls of waste in Yorkshire - and it's costing us half a million each year](https://www.yorkshirepost.co.uk/news/crime/criminals-are-fly-tipping-lorryfuls-of-waste-in-yorkshire-and-it-s-costing-us-half-a-million-each-year-1-10253799) *13 February 2020*
+* Berkshire Live: [The thousands spent clearing up mounds of fly-tipping dumped in Berkshire by criminal gangs](https://www.getreading.co.uk/news/reading-berkshire-news/thousands-spent-clearing-up-mounds-17727242) *14 February 2020*
+* Harrogate Advertiser: [Large scale fly tipping in Harrogate triples in 8 years - costing the taxpayer almost £30,000](https://www.harrogateadvertiser.co.uk/news/politics/council/large-scale-fly-tipping-harrogate-triples-8-years-costing-taxpayer-almost-ps30000-1613403) *14 February 2020*
+* Liverpool Echo: [Criminal gangs behind rise in 'new narcotics' blighting our streets](https://www.liverpoolecho.co.uk/news/liverpool-news/criminal-gangs-behind-rise-new-17745776) *14 February 2020*
+* Nantwich News: [Fly-tipping: the full cost to Cheshire East taxpayers](https://thenantwichnews.co.uk/2020/02/14/fly-tipping-the-full-cost-to-cheshire-east-taxpayers/) *14 February 2020*
+
