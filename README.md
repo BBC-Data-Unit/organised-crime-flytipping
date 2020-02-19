@@ -1,16 +1,15 @@
-# organised-crime-flytipping
-Organised criminal gangs responsible for large fly-tipping incidents.
+# Fly-tipping: Organised crime behind large rise
 
-In February 2020 the BBC Shared Data Unit reported that organised criminal gangs were being blamed for the continued rise of large fly-tipping incidents across England.
+In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-50660138) that organised criminal gangs were being blamed for the continued rise of large fly-tipping incidents across England.
 
 We compared official statistics on flytipping over several years, analysing the scale and cost of major fly-tipping incidents across England.
 
-This found:
+Our analysis found:
 
-Our analysis found the number of incidents of large-scale fly-tipping has more than doubled since 2012.
-Police and environmental groups say the nature of fly-tipping is changing - a shift driven by a surge in criminal gangs offering illegal waste clearing services.
-Since the 2012-13 financial year, councils in England have spent just over £59 million clearing large scale tips. The bill for such incidents was at its highest in 2018-19.
-Tipper lorry loads accounted for just over 125,000 of the total number of major incidents, while “significant/multi-loads” were recorded for just under 67,000 major incidents.
+- The number of incidents of large-scale fly-tipping had more than doubled since 2012.
+- Police and environmental groups said the nature of fly-tipping was changing - a shift driven by a surge in criminal gangs offering illegal waste clearing services.
+- Since the 2012-13 financial year, councils in England had spent just over £59m clearing large scale tips. The bill for such incidents was at its highest in 2018-19.
+- Tipper lorry loads accounted for just over 125,000 of the total number of major incidents, while “significant/multi-loads” were recorded for just under 67,000 major incidents.
 
 This piece of content was produced by a regional newspaper reporter working alongside BBC staff.
 
@@ -42,6 +41,6 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Rochdale News: [Major fly-tipping rates in Rochdale one of highest in country last year](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/132756/major-flytipping-rates-in-rochdale-one-of-highest-in-country-last-year) *14 February 2020*
 * Scarbrough News: [Large-scale fly tipping in Scarborough borough doubles in eight years - costing the taxpayer thousands](https://www.thescarboroughnews.co.uk/news/politics/council/large-scale-fly-tipping-scarborough-borough-doubles-eight-years-costing-taxpayer-thousands-1758293) *14 February 2020*
 * Lancaster and Morecambe Citizen: [Fly-tipping rises sharply as 'gangs dump industrial quantities of waste'](https://www.thelancasterandmorecambecitizen.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020*
-* Lancashire Telegraph: [Fly-tipping rises sharply in Blackburn with Darwen and Hyndburn] (https://www.lancashiretelegraph.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020* 
+* Lancashire Telegraph: [Fly-tipping rises sharply in Blackburn with Darwen and Hyndburn](https://www.lancashiretelegraph.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020* 
 
 
