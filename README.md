@@ -43,4 +43,6 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancaster and Morecambe Citizen: [Fly-tipping rises sharply as 'gangs dump industrial quantities of waste'](https://www.thelancasterandmorecambecitizen.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020*
 * Lancashire Telegraph: [Fly-tipping rises sharply in Blackburn with Darwen and Hyndburn](https://www.lancashiretelegraph.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020* 
 
+The story was also used by BBC Breakfast television, BBC News at One, BBC Radio 5 Live, BBC Radio 2 - Jeremy Vine
+
 
