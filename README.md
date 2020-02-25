@@ -50,4 +50,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story was also used by BBC Breakfast television, BBC News at One, BBC Radio 5 Live, BBC Radio 2 - Jeremy Vine
 
+## Here is the data 
 
+* [The rise of large-scale fly-tipping](https://docs.google.com/document/d/1Xs5OrqJrYgFmERcIXJ_tUrUHKDHXHt_jLUPxcVkffuA/edit)
+
+## Background and briefing
+
+* [A full briefing pack on the story can be found here](https://docs.google.com/spreadsheets/d/1sCM9rUKaSQxZ-Mo92uQK7hBfFfaJ4nhDRHQEyncNlsM/edit#gid=0)
