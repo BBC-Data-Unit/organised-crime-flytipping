@@ -45,9 +45,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancaster and Morecambe Citizen: [Fly-tipping rises sharply as 'gangs dump industrial quantities of waste'](https://www.thelancasterandmorecambecitizen.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020*
 * Lancashire Telegraph: [Fly-tipping rises sharply in Blackburn with Darwen and Hyndburn](https://www.lancashiretelegraph.co.uk/news/18239969.lorries-involved-east-lancs-fly-tipping-rises-sharply/) *17 February 2020* 
 * Pontefract and Castleford Express: [Councils are counting the cost of organised criminal flytipping gangs](https://www.pontefractandcastlefordexpress.co.uk/news/crime/councils-are-counting-cost-organised-criminal-flytipping-gangs-1886398) *21 February 2020*
+* Wakefield Express: [Councils are counting the cost of organised criminal flytipping gangs](https://www.wakefieldexpress.co.uk/news/crime/councils-are-counting-cost-organised-criminal-flytipping-gangs-1886398) *21 February 2020*
 * Evesham Journal: [Costs of fly-tipping in Dudley revealed](https://www.eveshamjournal.co.uk/news/regional/18258174.costs-fly-tipping-dudley-revealed/) *24 February 2020*
 * Essex County Standard: [Colchester Council spent £620k cleaning up flytipping](https://www.gazette-news.co.uk/news/18257830.colchester-council-spent-620k-cleaning-flytipping/) *25 February 2020*
 * Halesowen News: [Costs of fly-tipping in Dudley revealed](https://www.halesowennews.co.uk/news/18258176.costs-fly-tipping-dudley-revealed/) *25 February 2020*
+* Ham & High: [Fly-tipping: Camden's spending nearly doubles to £791,000 in 2018-19](https://www.hamhigh.co.uk/news/environment/fly-tipping-camden-s-spending-nearly-doubles-to-791-000-in-2018-19-1-6532178) *26 February 2020*
 
 The story was also used by BBC Breakfast television, BBC News at One, BBC Radio 5 Live, BBC Radio 2 - Jeremy Vine
 
