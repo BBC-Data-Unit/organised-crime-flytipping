@@ -56,6 +56,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story was also used by BBC Breakfast television, BBC News at One, BBC Radio 5 Live, BBC Radio 2 - Jeremy Vine
 
+## Visualisation
+
+* Embedded digital video: Tackling the fly-tippers who dump by the truckload
+* Line chart: The rising cost of large fly-tipping to English councils 2012-19
+* Map: Clean-ups of a lorry-load or more in each English district per 10,000 people 2018-19
+
 ## Here is the data 
 
 * [Major fly-tipping data](https://docs.google.com/spreadsheets/d/1sCM9rUKaSQxZ-Mo92uQK7hBfFfaJ4nhDRHQEyncNlsM/edit#gid=0)
