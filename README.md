@@ -1,5 +1,7 @@
 # Fly-tipping: Organised crime behind large rise
 
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/6E4C/production/_110163282_flytipping2-nc.jpg)
+
 In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-50660138) that organised criminal gangs were being blamed for the continued rise of large fly-tipping incidents across England.
 
 We compared official statistics on flytipping over several years, analysing the scale and cost of major fly-tipping incidents across England.
